@@ -257,7 +257,7 @@ export default TimeAgo;
 
 2. Navigate to the project directory:
    ```
-   cd preact-multi-page-website
+   cd Preact-Multi-Page
    ```
 
 3. Install dependencies:
